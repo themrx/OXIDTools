@@ -1,4 +1,4 @@
-
+[url=https://ibb.co/RhtBzdM][img]https://i.ibb.co/RhtBzdM/IMG-20200803-020446.jpg[/img][/url]
 EN :
 >**This is a free tool that is ready to**
 >**be installed on your Termux application.**
@@ -23,7 +23,6 @@ Instalation :
 
 # ./run.sh
 
-https://1.bp.blogspot.com/-YLZ9IXShviQ/XoftZZ4ThtI/AAAAAAAAAG4/pVON9zaz3isaPFbvfmiaPqYw_uax79rUQCPcBGAYYCw/s320/Screenshot_20200404-091235-picsay.jpg
 
 Thank's to
 ----
