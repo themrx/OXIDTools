@@ -1,4 +1,4 @@
-watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/OXIDTools?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/oxyda-fox/OXIDTools?style=flat-square)
+
 EN :
 >**This is a free tool that is ready to**
 >**be installed on your Termux application.**
@@ -28,8 +28,6 @@ Thank's to
 ----
 * Allah swt
 * 0xyD4ff0x a.k.a A55H0L3
+* M R X
 * W3LLFR13ND-TEAM
-* MRX
-* Etc
-
-![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/OXIDTools?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/oxyda-fox/OXIDTools?style=flat-square)
+* eRRoR
